@@ -1,0 +1,92 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "qa8TomyGaKBkk0kXHLVCj",
+      "name": "tw-red-500",
+      "value": "#ef4444"
+    },
+    {
+      "id": "eAvcJ_Oydv2lFcqYE-zKH",
+      "name": "tw-orange-500",
+      "value": "#f97316"
+    },
+    {
+      "id": "WBRuyrDb5S1oln32NPjoE",
+      "name": "tw-amber-500",
+      "value": "#f59e0b"
+    },
+    {
+      "id": "DpAvGhnj-5IUgQYAYUw1c",
+      "name": "tw-yellow-500",
+      "value": "#eab30a"
+    },
+    {
+      "id": "IRWPMrWMwfS6Jx09iJKS7",
+      "name": "tw-lime-500",
+      "value": "#85cc17"
+    },
+    {
+      "id": "dsgjMrri7N_ZXxlWiaAyd",
+      "name": "tw-green-500",
+      "value": "#22c55e"
+    },
+    {
+      "id": "X03wIsRpH911Wz_XSr5Uz",
+      "name": "tw-emerald-500",
+      "value": "#12b981"
+    },
+    {
+      "id": "Lf9scx4Zyxw4J6RVO1ijp",
+      "name": "tw-teal-500",
+      "value": "#13b8a6"
+    },
+    {
+      "id": "WBZ3Lu8_BdGD9eS9OqN30",
+      "name": "tw-cyan-500",
+      "value": "#0ab6d4"
+    },
+    {
+      "id": "vwUw2PlmVyVGGWN0rRmQf",
+      "name": "tw-sky-500",
+      "value": "#10a5e9"
+    },
+    {
+      "id": "Nxvyt3YTRaFQfdAUfycbL",
+      "name": "tw-blue-500",
+      "value": "#3b82f6"
+    },
+    {
+      "id": "dr0yq7b2tDkxuQPqRYxud",
+      "name": "tw-indigo-500",
+      "value": "#6366f1"
+    },
+    {
+      "id": "bjqOZCUSp3DI185YisJ_M",
+      "name": "tw-violet-500",
+      "value": "#8b5cf6"
+    },
+    {
+      "id": "t0Exg704apzoh1LwhUwzr",
+      "name": "tw-purple-500",
+      "value": "#a855f7"
+    },
+    {
+      "id": "PO96oQ2J9qvtR7KivFzAg",
+      "name": "tw-fuschia-500",
+      "value": "#d946ef"
+    },
+    {
+      "id": "BBXK_jkFDFOySWVOzsejR",
+      "name": "tw-pink-500",
+      "value": "#ec4899"
+    },
+    {
+      "id": "OyJIfwRb5yDEVlCd-isLF",
+      "name": "tw-rose-500",
+      "value": "#f43f5e"
+    }
+  ],
+  "fileColors": []
+}
