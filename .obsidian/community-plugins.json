@@ -1,7 +1,6 @@
 [
   "obsidian-file-color",
   "image-converter",
-  "modalforms",
   "homepage",
   "obsidian-git",
   "obsidian-icon-folder",
@@ -11,6 +10,8 @@
   "omnisearch",
   "templater-obsidian",
   "quickadd",
-  "obsidian-kanban",
-  "todoist-sync-plugin"
+  "todoist-sync-plugin",
+  "obsidian-banners",
+  "multi-column-markdown",
+  "settings-search"
 ]

@@ -2,7 +2,7 @@
   "choices": [
     {
       "id": "669190a0-f88f-4bd0-b9ed-bf7568b8c53d",
-      "name": "Default Template - Unsorted",
+      "name": "Default Template",
       "type": "Template",
       "command": false,
       "templatePath": "{90000} Configuration/{91000} Templates/Default Template.md",
@@ -32,10 +32,10 @@
     },
     {
       "id": "ae12dc93-7273-4534-8a3a-66eda6e83a5d",
-      "name": "Daily Note",
+      "name": "Daily Template",
       "type": "Template",
       "command": true,
-      "templatePath": "{90000} Configuration/{91000} Templates/Daily/Day of the Week.md",
+      "templatePath": "{90000} Configuration/{91000} Templates/Daily Template.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{DATE:DD}} - {{DATE:dddd}}"
@@ -57,6 +57,34 @@
       },
       "openFile": true,
       "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "02769661-b3f2-4d4e-b50f-6e5595f1dfa0",
+      "name": "Indexer Template",
+      "type": "Template",
+      "command": false,
+      "templatePath": "{90000} Configuration/{91000} Templates/Indexer Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
     }

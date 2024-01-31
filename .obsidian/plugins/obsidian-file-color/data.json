@@ -88,5 +88,46 @@
       "value": "#f43f5e"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "{10000} Professional",
+      "color": "X03wIsRpH911Wz_XSr5Uz"
+    },
+    {
+      "path": "{20000} Personal",
+      "color": "vwUw2PlmVyVGGWN0rRmQf"
+    },
+    {
+      "path": "{90000} Configuration",
+      "color": "OyJIfwRb5yDEVlCd-isLF"
+    },
+    {
+      "path": "{30000} Productivity",
+      "color": "t0Exg704apzoh1LwhUwzr"
+    },
+    {
+      "path": "{00000} Unsorted",
+      "color": "DpAvGhnj-5IUgQYAYUw1c"
+    },
+    {
+      "path": "{00000} Unsorted/{00000} Unsorted.md",
+      "color": "DpAvGhnj-5IUgQYAYUw1c"
+    },
+    {
+      "path": "{20000} Personal/{20000} Personal.md",
+      "color": "vwUw2PlmVyVGGWN0rRmQf"
+    },
+    {
+      "path": "{30000} Productivity/{30000} Productivity.md",
+      "color": "t0Exg704apzoh1LwhUwzr"
+    },
+    {
+      "path": "{90000} Configuration/{90000} Configuration.md",
+      "color": "OyJIfwRb5yDEVlCd-isLF"
+    },
+    {
+      "path": "{10000} Professional/{10000} Professional.md",
+      "color": "X03wIsRpH911Wz_XSr5Uz"
+    }
+  ]
 }

@@ -11,7 +11,7 @@
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "{90000} Configuration/{92000} Scripts",
+  "user_scripts_folder": "",
   "enable_folder_templates": true,
   "folder_templates": [
     {

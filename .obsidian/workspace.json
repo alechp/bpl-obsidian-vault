@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45e7c5d4ba2e20d8",
+        "id": "612241e11be3cd93",
         "type": "tabs",
         "children": [
           {
-            "id": "50c4135eff10f711",
+            "id": "4671c825af0df7a0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "476436b546b5b8c4",
+            "id": "041f53e37477dbf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "{90000} Configuration/{91000} Templates/Daily/Day of the Week.md",
+                "file": "{90000} Configuration/{91000} Templates/{91000} Templates.md",
                 "mode": "source",
                 "source": true
               }
@@ -35,24 +35,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "50432dcabc442ab9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d0abd10a1ba48a8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "{00000} Unsorted/{01000} Daily/2024/01/30 - Tuesday.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "{90000} Configuration/{91000} Templates/Daily/Day of the Week.md",
+                "file": "{90000} Configuration/{91000} Templates/{91000} Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "{90000} Configuration/{91000} Templates/Daily/Day of the Week.md",
+                "file": "{90000} Configuration/{91000} Templates/{91000} Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "{90000} Configuration/{91000} Templates/Daily/Day of the Week.md"
+                "file": "{90000} Configuration/{91000} Templates/{91000} Templates.md"
               }
             }
           },
@@ -179,47 +161,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "modalforms:Edit forms": false,
       "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "476436b546b5b8c4",
+  "active": "041f53e37477dbf8",
   "lastOpenFiles": [
-    "Untitled.md",
-    "{90000} Configuration/{91000} Templates/Daily/Day of the Week.md",
-    "{00000} Unsorted/{01000} Daily/2024/01/30 - Tuesday.md",
+    "Home.md",
+    "{90000} Configuration/{91000} Templates/{91000} Templates.md",
+    "{30000} Productivity/{31000} Goals/{31000} Goals.md",
+    "{90000} Configuration/{92000} Scripts/{92000 Scripts}.md",
+    "{90000} Configuration/{90000} Configuration.md",
+    "{30000} Productivity/{30000} Productivity.md",
+    "{20000} Personal/{20000} Personal.md",
+    "{90000} Configuration/{91000} Templates/Indexer Template.md",
+    "{90000} Configuration/{91000} Templates/Daily Template.md",
+    "{00000} Unsorted/{01000} Daily/{01000} Daily.md",
+    "{00000} Unsorted/{00000} Unsorted.md",
+    "{90000} Configuration/{91000} Templates/Default Template.md",
+    "{90000} Configuration/{91000} Templates/Untitled",
+    "{00000} Unsorted/{01000} Daily/2024/01/31 - Wednesday.md",
     "{00000} Unsorted/{01000} Daily/2024/01",
     "{00000} Unsorted/{01000} Daily/2024",
+    "{00000} Unsorted/{01000} Daily",
+    "{00000} Unsorted",
+    "{10000} Professional/{10000} Professional.md",
+    "{30000} Productivity/{31000} Goals/2024 Goals.md",
+    "{30000} Productivity/{31000} Goals/2024 Goals",
+    "{30000} Productivity/{31000} Goals/2024",
+    "{30000} Productivity/{31000} Goals/2030",
+    "{30000} Productivity/{31000} Goals",
+    "home-banner.webp",
+    "home-banner.jpeg",
+    "{90000} Configuration/{92000} Scripts/get_daily_links.js",
+    "{00000} Unsorted/{01000} Daily/2024/01/30 - Tuesday.md",
+    "Untitled.md",
     "{00000} Unsorted/{01000} Daily/2024/01/30 <% tp.user.get_nth(30) %> - Tuesday.md",
     "{00000} Unsorted/{01000} Daily/2024/01/30<% tp.user.get_nth(30) %> - Tuesday.md",
     "{00000} Unsorted/{01000} Daily/2024/01/30 - Tuesday1.md",
     "{00000} Unsorted/{01000} Daily/2024/01/prefix - 2024-01-30.md",
-    "{90000} Configuration/{92000} Scripts/get_nth.js",
-    "{90000} Configuration/{92000} Scripts/get_when.js",
-    "{90000} Configuration/{92000} Scripts/get_day_of_the_week.js",
-    "Home.md",
-    "{90000} Configuration/{92000} Scripts/get_when_label.js",
     "{90000} Configuration/{92000} Scripts/get-when-label.js.md",
-    "{90000} Configuration/{92000} Scripts/get-when-label.js",
-    "{90000} Configuration/{92000} Scripts",
-    "{30000} Productivity/{31000} Goals/2024 Goals.md",
-    "{30000} Productivity/{31000} Goals",
-    "{90000} Configuration/{91000} Templates/Default Template.md",
-    "{90000} Configuration/{91000} Templates/Daily",
     "{00000} Unsorted/testing123 (2024-01-30)/testing123 (2024-01-30).md",
     "{00000} Unsorted/Testing123 (2024-01-30)/Testing123 (2024-01-30).md",
     "{00000} Unsorted/Testing 123 (2024-01-30).md",
-    "Foobar.md",
-    "Testing 123 (2024-01-30).md",
-    "Welcome.md"
+    "Foobar.md"
   ]
 }
