@@ -1,9 +1,70 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "669190a0-f88f-4bd0-b9ed-bf7568b8c53d",
+      "name": "Default Template - Unsorted",
+      "type": "Template",
+      "command": false,
+      "templatePath": "{90000} Configuration/{91000} Templates/Default Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}} ({{date}})"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "{00000} Unsorted/{{VALUE}} ({{date}})"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "ae12dc93-7273-4534-8a3a-66eda6e83a5d",
+      "name": "Daily Note",
+      "type": "Template",
+      "command": true,
+      "templatePath": "{90000} Configuration/{91000} Templates/Daily/Day of the Week.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:DD}} - {{DATE:dddd}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "{00000} Unsorted/{01000} Daily/{{DATE:YYYY}}/{{DATE:MM}}"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "{90000} Configuration/{91000} Templates",
   "announceUpdates": true,
   "version": "1.6.1",
   "disableOnlineFeatures": true,

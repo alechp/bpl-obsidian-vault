@@ -11,5 +11,6 @@
   "omnisearch",
   "templater-obsidian",
   "quickadd",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "todoist-sync-plugin"
 ]

@@ -1,0 +1,20 @@
+{
+  "quickadd:choice:669190a0-f88f-4bd0-b9ed-bf7568b8c53d": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "quickadd:runQuickAdd": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ]
+}

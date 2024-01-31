@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec948f0594183ad9",
+        "id": "45e7c5d4ba2e20d8",
         "type": "tabs",
         "children": [
           {
-            "id": "47005dfb157d62df",
+            "id": "50c4135eff10f711",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,25 +16,43 @@
               "state": {
                 "file": "Home.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "pinned": true
             }
           },
           {
-            "id": "fcf17a920c8bd70b",
+            "id": "476436b546b5b8c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foobar.md",
+                "file": "{90000} Configuration/{91000} Templates/Daily/Day of the Week.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "50432dcabc442ab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0abd10a1ba48a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "{00000} Unsorted/{01000} Daily/2024/01/30 - Tuesday.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5004348754883
   },
   "right": {
     "id": "bfca301f03bb2d4b",
@@ -100,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foobar.md",
+                "file": "{90000} Configuration/{91000} Templates/Daily/Day of the Week.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foobar.md",
+                "file": "{90000} Configuration/{91000} Templates/Daily/Day of the Week.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foobar.md"
+                "file": "{90000} Configuration/{91000} Templates/Daily/Day of the Week.md"
               }
             }
           },
@@ -174,11 +192,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5adcb685a239f5f3",
+  "active": "476436b546b5b8c4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "{90000} Configuration/{91000} Templates/Daily/Day of the Week.md",
+    "{00000} Unsorted/{01000} Daily/2024/01/30 - Tuesday.md",
+    "{00000} Unsorted/{01000} Daily/2024/01",
+    "{00000} Unsorted/{01000} Daily/2024",
+    "{00000} Unsorted/{01000} Daily/2024/01/30 <% tp.user.get_nth(30) %> - Tuesday.md",
+    "{00000} Unsorted/{01000} Daily/2024/01/30<% tp.user.get_nth(30) %> - Tuesday.md",
+    "{00000} Unsorted/{01000} Daily/2024/01/30 - Tuesday1.md",
+    "{00000} Unsorted/{01000} Daily/2024/01/prefix - 2024-01-30.md",
+    "{90000} Configuration/{92000} Scripts/get_nth.js",
+    "{90000} Configuration/{92000} Scripts/get_when.js",
+    "{90000} Configuration/{92000} Scripts/get_day_of_the_week.js",
     "Home.md",
+    "{90000} Configuration/{92000} Scripts/get_when_label.js",
+    "{90000} Configuration/{92000} Scripts/get-when-label.js.md",
+    "{90000} Configuration/{92000} Scripts/get-when-label.js",
+    "{90000} Configuration/{92000} Scripts",
+    "{30000} Productivity/{31000} Goals/2024 Goals.md",
+    "{30000} Productivity/{31000} Goals",
+    "{90000} Configuration/{91000} Templates/Default Template.md",
+    "{90000} Configuration/{91000} Templates/Daily",
+    "{00000} Unsorted/testing123 (2024-01-30)/testing123 (2024-01-30).md",
+    "{00000} Unsorted/Testing123 (2024-01-30)/Testing123 (2024-01-30).md",
+    "{00000} Unsorted/Testing 123 (2024-01-30).md",
     "Foobar.md",
-    "Welcome.md",
-    "Test"
+    "Testing 123 (2024-01-30).md",
+    "Welcome.md"
   ]
 }
