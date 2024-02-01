@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "612241e11be3cd93",
+        "id": "632f55c6fe6c87ec",
         "type": "tabs",
         "children": [
           {
-            "id": "4671c825af0df7a0",
+            "id": "fde2a235a47153ed",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "🏠 Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -159,15 +157,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5adcb685a239f5f3",
+  "active": "27b6da0123ebc57e",
   "lastOpenFiles": [
+    "🏠 Home.md",
     "README.md",
     "{90000} Configuration/{91000} Templates/Daily Template.md",
     "{00000} Unsorted/{01000} Daily/2024/01/31 - Wednesday.md",
     "{00000} Unsorted/{01000} Daily/2024/01",
     "{00000} Unsorted/{01000} Daily/2024",
     "{00000} Unsorted/{01000} Daily/2024/01/31 - Wednesday1.md",
-    "🏠 Home.md",
     "{90000} Configuration/{92000} Scripts/{92000 Scripts}.md",
     "{30000} Productivity/{30000} Productivity.md",
     "{10000} Professional/Max Says Hi.md",
