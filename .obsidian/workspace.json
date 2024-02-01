@@ -14,27 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
+                "file": "🏠 Home.md",
+                "mode": "preview",
                 "source": true
               },
               "pinned": true
             }
-          },
-          {
-            "id": "041f53e37477dbf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "{90000} Configuration/{91000} Templates/{91000} Templates.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "{90000} Configuration/{91000} Templates/{91000} Templates.md",
+                "file": "🏠 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "{90000} Configuration/{91000} Templates/{91000} Templates.md",
+                "file": "🏠 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "{90000} Configuration/{91000} Templates/{91000} Templates.md"
+                "file": "🏠 Home.md"
               }
             }
           },
@@ -172,24 +159,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "041f53e37477dbf8",
+  "active": "5adcb685a239f5f3",
   "lastOpenFiles": [
-    "Home.md",
+    "README.md",
+    "{90000} Configuration/{91000} Templates/Daily Template.md",
+    "{00000} Unsorted/{01000} Daily/2024/01/31 - Wednesday.md",
+    "{00000} Unsorted/{01000} Daily/2024/01",
+    "{00000} Unsorted/{01000} Daily/2024",
+    "{00000} Unsorted/{01000} Daily/2024/01/31 - Wednesday1.md",
+    "🏠 Home.md",
+    "{90000} Configuration/{92000} Scripts/{92000 Scripts}.md",
+    "{30000} Productivity/{30000} Productivity.md",
+    "{10000} Professional/Max Says Hi.md",
+    "{10000} Professional/{11000} Max/{11000} Max.md",
+    "{10000} Professional/{11000} Max",
     "{90000} Configuration/{91000} Templates/{91000} Templates.md",
     "{30000} Productivity/{31000} Goals/{31000} Goals.md",
-    "{90000} Configuration/{92000} Scripts/{92000 Scripts}.md",
     "{90000} Configuration/{90000} Configuration.md",
-    "{30000} Productivity/{30000} Productivity.md",
     "{20000} Personal/{20000} Personal.md",
     "{90000} Configuration/{91000} Templates/Indexer Template.md",
-    "{90000} Configuration/{91000} Templates/Daily Template.md",
     "{00000} Unsorted/{01000} Daily/{01000} Daily.md",
     "{00000} Unsorted/{00000} Unsorted.md",
     "{90000} Configuration/{91000} Templates/Default Template.md",
     "{90000} Configuration/{91000} Templates/Untitled",
-    "{00000} Unsorted/{01000} Daily/2024/01/31 - Wednesday.md",
-    "{00000} Unsorted/{01000} Daily/2024/01",
-    "{00000} Unsorted/{01000} Daily/2024",
     "{00000} Unsorted/{01000} Daily",
     "{00000} Unsorted",
     "{10000} Professional/{10000} Professional.md",
@@ -200,17 +192,11 @@
     "{30000} Productivity/{31000} Goals",
     "home-banner.webp",
     "home-banner.jpeg",
-    "{90000} Configuration/{92000} Scripts/get_daily_links.js",
     "{00000} Unsorted/{01000} Daily/2024/01/30 - Tuesday.md",
-    "Untitled.md",
     "{00000} Unsorted/{01000} Daily/2024/01/30 <% tp.user.get_nth(30) %> - Tuesday.md",
     "{00000} Unsorted/{01000} Daily/2024/01/30<% tp.user.get_nth(30) %> - Tuesday.md",
     "{00000} Unsorted/{01000} Daily/2024/01/30 - Tuesday1.md",
     "{00000} Unsorted/{01000} Daily/2024/01/prefix - 2024-01-30.md",
-    "{90000} Configuration/{92000} Scripts/get-when-label.js.md",
-    "{00000} Unsorted/testing123 (2024-01-30)/testing123 (2024-01-30).md",
-    "{00000} Unsorted/Testing123 (2024-01-30)/Testing123 (2024-01-30).md",
-    "{00000} Unsorted/Testing 123 (2024-01-30).md",
-    "Foobar.md"
+    "{90000} Configuration/{92000} Scripts/get-when-label.js.md"
   ]
 }

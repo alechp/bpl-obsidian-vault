@@ -43,8 +43,12 @@ modification_date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %
 
 ```
 
+### Notes
+
+
+### Tasks
 ```todoist
 name: <% tp.user.get_when() %>
-filter: "due today | @<% tp.user.get_when("label") %> | @wynn | @top"
+filter: "!(due today | @type-routine | @type-recurring) & (@<% tp.user.get_when("label") %> | @wynn | @top)"
 group: true
 ```
