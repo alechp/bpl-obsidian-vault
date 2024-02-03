@@ -11,8 +11,11 @@
             "id": "da52d796d97d5dcf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": true
+              }
             }
           }
         ]
@@ -72,81 +75,46 @@
     "type": "split",
     "children": [
       {
-        "id": "c1f7a70515d398b4",
-        "type": "split",
+        "id": "16d8e52df83f7747",
+        "type": "tabs",
         "children": [
           {
-            "id": "16d8e52df83f7747",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "431c0244f305b806",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "🏠 Home.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "980aa67d8c4307fe",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "🏠 Home.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "a047c45ac0739634",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              },
-              {
-                "id": "5e035fb67125cbe4",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "🏠 Home.md"
-                  }
-                }
+            "id": "431c0244f305b806",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
-            ],
-            "currentTab": 3
+            }
           },
           {
-            "id": "d31422302c5f069f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f2840aad1bf71487",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "🏠 Home.md"
-                  }
-                }
+            "id": "980aa67d8c4307fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
-            ]
+            }
+          },
+          {
+            "id": "a047c45ac0739634",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           },
           {
             "id": "678c32c9d9b1f5af",
@@ -157,11 +125,11 @@
             }
           }
         ],
-        "direction": "vertical"
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 931.5
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,6 +147,7 @@
   "active": "da52d796d97d5dcf",
   "lastOpenFiles": [
     "🏠 Home.md",
+    "home-banner.jpeg",
     "README.md",
     "{90000} Configuration/{91000} Templates/Daily Template.md",
     "{00000} Unsorted/{01000} Daily/2024/01/31 - Wednesday.md",
@@ -208,7 +177,6 @@
     "{30000} Productivity/{31000} Goals/2030",
     "{30000} Productivity/{31000} Goals",
     "home-banner.webp",
-    "home-banner.jpeg",
     "{00000} Unsorted/{01000} Daily/2024/01/30 - Tuesday.md",
     "{00000} Unsorted/{01000} Daily/2024/01/30 <% tp.user.get_nth(30) %> - Tuesday.md",
     "{00000} Unsorted/{01000} Daily/2024/01/30<% tp.user.get_nth(30) %> - Tuesday.md",
