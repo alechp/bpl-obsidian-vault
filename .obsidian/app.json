@@ -3,5 +3,6 @@
   "showLineNumber": true,
   "livePreview": false,
   "attachmentFolderPath": "./ref",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }

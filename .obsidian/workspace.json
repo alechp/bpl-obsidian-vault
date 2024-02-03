@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d40a104586d5b470",
+        "id": "001f5d6ba77798b7",
         "type": "tabs",
         "children": [
           {
-            "id": "da52d796d97d5dcf",
+            "id": "a1b12af191b04511",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": true
+                "file": "🏠 Home.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🏠 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🏠 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,6 +126,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "fa94d3851738f782",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🏠 Home.md"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -144,10 +157,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da52d796d97d5dcf",
+  "active": "a1b12af191b04511",
   "lastOpenFiles": [
-    "🏠 Home.md",
     "home-banner.jpeg",
+    "🏠 Home.md",
     "README.md",
     "{90000} Configuration/{91000} Templates/Daily Template.md",
     "{00000} Unsorted/{01000} Daily/2024/01/31 - Wednesday.md",
