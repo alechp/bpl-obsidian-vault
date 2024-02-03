@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "632f55c6fe6c87ec",
+        "id": "d40a104586d5b470",
         "type": "tabs",
         "children": [
           {
-            "id": "fde2a235a47153ed",
+            "id": "da52d796d97d5dcf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🏠 Home.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -76,61 +72,84 @@
     "type": "split",
     "children": [
       {
-        "id": "16d8e52df83f7747",
-        "type": "tabs",
+        "id": "c1f7a70515d398b4",
+        "type": "split",
         "children": [
           {
-            "id": "431c0244f305b806",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "🏠 Home.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+            "id": "16d8e52df83f7747",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "431c0244f305b806",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "🏠 Home.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "980aa67d8c4307fe",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "🏠 Home.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a047c45ac0739634",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "5e035fb67125cbe4",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "🏠 Home.md"
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 3
           },
           {
-            "id": "980aa67d8c4307fe",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "🏠 Home.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+            "id": "d31422302c5f069f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f2840aad1bf71487",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "🏠 Home.md"
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "a047c45ac0739634",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "5e035fb67125cbe4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "🏠 Home.md"
-              }
-            }
-          },
-          {
-            "id": "27b6da0123ebc57e",
+            "id": "678c32c9d9b1f5af",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -138,11 +157,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "direction": "vertical"
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 931.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,7 +176,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "27b6da0123ebc57e",
+  "active": "da52d796d97d5dcf",
   "lastOpenFiles": [
     "🏠 Home.md",
     "README.md",

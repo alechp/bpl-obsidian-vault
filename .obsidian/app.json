@@ -1,5 +1,7 @@
 {
   "vimMode": true,
   "showLineNumber": true,
-  "livePreview": false
+  "livePreview": false,
+  "attachmentFolderPath": "./ref",
+  "useMarkdownLinks": true
 }
