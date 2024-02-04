@@ -10,9 +10,15 @@
           {
             "id": "cfc594edb2142c48",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🏠 Home.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
             }
           }
         ]
