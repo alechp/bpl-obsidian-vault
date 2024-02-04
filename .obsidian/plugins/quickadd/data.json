@@ -4,11 +4,11 @@
       "id": "669190a0-f88f-4bd0-b9ed-bf7568b8c53d",
       "name": "Default Template",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "{90000} Configuration/{91000} Templates/Default Template.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{VALUE}} ({{date}})"
+        "format": "{{DATE:YYYY}} / {{DATE:MM}} / {{DATE:DD}} - {{VALUE}}"
       },
       "folder": {
         "enabled": true,
@@ -16,7 +16,7 @@
           "{00000} Unsorted/{{VALUE}} ({{date}})"
         ],
         "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
+        "createInSameFolderAsActiveFile": true,
         "chooseFromSubfolders": false
       },
       "appendLink": false,
@@ -64,17 +64,17 @@
       "id": "02769661-b3f2-4d4e-b50f-6e5595f1dfa0",
       "name": "Indexer Template",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "{90000} Configuration/{91000} Templates/Indexer Template.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "{{value}} / {{value}}"
       },
       "folder": {
         "enabled": true,
         "folders": [],
-        "chooseWhenCreatingNote": true,
-        "createInSameFolderAsActiveFile": false,
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": true,
         "chooseFromSubfolders": false
       },
       "appendLink": false,
@@ -83,7 +83,7 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
+      "openFile": true,
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
