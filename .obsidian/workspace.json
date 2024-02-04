@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "94c0fc671c335f6c",
+        "id": "552ba0327296c469",
         "type": "tabs",
         "children": [
           {
-            "id": "cfc594edb2142c48",
+            "id": "9f53bb07428d2bbe",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d6254123fc8d2230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "{90000} Configuration/{91000} Templates/Daily Template.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"  // Fetch all notes ordered by date; from the daily note directory\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠 Home.md",
+                "file": "{90000} Configuration/{91000} Templates/Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏠 Home.md",
+                "file": "{90000} Configuration/{91000} Templates/Daily Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠 Home.md"
+                "file": "{90000} Configuration/{91000} Templates/Daily Template.md"
               }
             }
           }
@@ -159,10 +173,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cfc594edb2142c48",
+  "active": "eb9305451852b638",
   "lastOpenFiles": [
-    "home-banner.jpeg",
+    "{00000} Unsorted/{01000} Daily/{01000} Daily.md",
     "🏠 Home.md",
+    "home-banner.jpeg",
     "README.md",
     "{90000} Configuration/{91000} Templates/Daily Template.md",
     "{00000} Unsorted/{01000} Daily/2024/01/31 - Wednesday.md",
@@ -179,7 +194,6 @@
     "{90000} Configuration/{90000} Configuration.md",
     "{20000} Personal/{20000} Personal.md",
     "{90000} Configuration/{91000} Templates/Indexer Template.md",
-    "{00000} Unsorted/{01000} Daily/{01000} Daily.md",
     "{00000} Unsorted/{00000} Unsorted.md",
     "{90000} Configuration/{91000} Templates/Default Template.md",
     "{90000} Configuration/{91000} Templates/Untitled",
