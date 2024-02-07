@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "130630f56d035c48",
+        "id": "64640ac2a4786ade",
         "type": "tabs",
         "children": [
           {
-            "id": "a2ee2ad5c3e9aeae",
+            "id": "5de78a956bad078f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -153,14 +153,18 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a2ee2ad5c3e9aeae",
+  "active": "5adcb685a239f5f3",
   "lastOpenFiles": [
+    "{90000} Configuration/{92000} Scripts/customjs/coolString.js",
+    "{90000} Configuration/{92000} Scripts/templater/get_when.js",
+    "{90000} Configuration/{92000} Scripts/templater/get_nth.js",
+    "{90000} Configuration/{92000} Scripts/customjs",
+    "{90000} Configuration/{92000} Scripts/templater",
     "{90000} Configuration/{91000} Templates/Default Template.md",
     "{90000} Configuration/{91000} Templates/Indexer Template.md",
     "{90000} Configuration/{91000} Templates/Daily Template.md",
@@ -187,10 +191,6 @@
     "{00000} Unsorted",
     "{10000} Professional/{10000} Professional.md",
     "{30000} Productivity/{31000} Goals/2024 Goals.md",
-    "{30000} Productivity/{31000} Goals/2024 Goals",
-    "{30000} Productivity/{31000} Goals/2024",
-    "{30000} Productivity/{31000} Goals/2030",
-    "{30000} Productivity/{31000} Goals",
     "home-banner.webp",
     "{00000} Unsorted/{01000} Daily/2024/01/30 - Tuesday.md",
     "{00000} Unsorted/{01000} Daily/2024/01/30 <% tp.user.get_nth(30) %> - Tuesday.md",

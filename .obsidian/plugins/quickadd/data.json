@@ -8,7 +8,7 @@
       "templatePath": "{90000} Configuration/{91000} Templates/Default Template.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{DATE:YYYY}} / {{DATE:MM}} / {{DATE:DD}} - {{VALUE}}"
+        "format": "{{DATE:YYYY}} / {{DATE:MM}} / {{DATE:DD}} - {{VALUE}} / {{DATE:DD}} - {{VALUE}}"
       },
       "folder": {
         "enabled": true,
@@ -38,7 +38,7 @@
       "templatePath": "{90000} Configuration/{91000} Templates/Daily Template.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{DATE:DD}} - {{DATE:dddd}}"
+        "format": "{{DATE:DD}} - {{DATE:dddd}} / {{DATE:DD}} - {{DATE:dddd}}"
       },
       "folder": {
         "enabled": true,
