@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4a71ad3b2f1ff65",
+        "id": "130630f56d035c48",
         "type": "tabs",
         "children": [
           {
-            "id": "76ff232cc4efcfb3",
+            "id": "a2ee2ad5c3e9aeae",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "d31b9b7c4de8858d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "{90000} Configuration/{91000} Templates/Daily Template.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "{90000} Configuration/{91000} Templates/Daily Template.md",
+                "file": "🏠 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "{90000} Configuration/{91000} Templates/Daily Template.md",
+                "file": "🏠 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "{90000} Configuration/{91000} Templates/Daily Template.md"
+                "file": "🏠 Home.md"
               }
             }
           }
@@ -172,7 +159,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d31b9b7c4de8858d",
+  "active": "a2ee2ad5c3e9aeae",
   "lastOpenFiles": [
     "{90000} Configuration/{91000} Templates/Default Template.md",
     "{90000} Configuration/{91000} Templates/Indexer Template.md",
